@@ -1,1 +1,1 @@
-A ReactJS Web App done using **Figma** designs
+A ReactJS Website done with inspiration from **Figma** designs
